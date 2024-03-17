@@ -31,3 +31,8 @@
         <li>Text Translation for Multilingual Support</li>
     </ul>
 
+<h2>Results:</h2>
+<img src='s1.png'>
+<img src='s2e.png'>
+<img src='s2h.png'>
+
