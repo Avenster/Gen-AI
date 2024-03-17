@@ -7,14 +7,14 @@
 <h2>Methodology</h2>
 <img src='diagram.png'>
 
-<h2>technological stack</h2>
+<h2>Technological Stack</h2>
 <ul>
-  <li>1. Hugging Face</li>
-  <li>2. Colab</li>
-  <li>3. HugChat API</li>
-  <li>4. Python</li>
-  <li>5. Python Libraries</li>
-  <li>6. ML Libraries</li>
+  <li>Hugging Face</li>
+  <li>Colab</li>
+  <li>HugChat API</li>
+  <li>Python</li>
+  <li>Python Libraries</li>
+  <li>ML Libraries</li>
 </ul>
 
 <h2>Features</h2>
