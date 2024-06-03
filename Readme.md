@@ -4,7 +4,6 @@
 <p>Developing a comprehensive storyboard for a user interface (UI)/user experience (UX) project based solely on user descriptions poses challenges in accurately capturing product functionalities and user interactions. This project aims to address this by generating use case stories and corresponding visual representations, culminating in a cohesive storyboard for effective communication.</p>
 <h2>Methodology</h2>
 <img src='assets/diagram.png'>
-
 <h2>Technological Stack</h2>
 <ul>
   <li>Hugging Face</li>
