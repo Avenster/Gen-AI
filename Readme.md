@@ -13,7 +13,6 @@
   <li>Python Libraries</li>
   <li>ML Libraries</li>
 </ul>
-
 <h2>Features</h2>
     <ul>
         <li>Dynamic Storyboard Creation</li>
