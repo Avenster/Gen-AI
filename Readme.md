@@ -34,9 +34,9 @@
     </ul>
 
 <h2>Results:</h2>
-<img src='assets/s1.png'>
-<img src='assets/s2e.png'>
-<img src='assets/s2h.png'>
+<img src='assets/baseline.png'>
+<img src='assets/finetuned.png'>
+<img src='assets/finetune-f.png'>
 
 <h2>Future Scope</h2>
 <p>Incorporating datasets with larger and more diverse images can further enrich the model's understanding of visual concepts and improve its ability to generate high-quality images. Such datasets contain vast collections of images spanning various categories and contexts, offering ample opportunities for training more robust models.</p>
