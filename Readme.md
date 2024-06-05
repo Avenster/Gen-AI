@@ -34,8 +34,11 @@
     </ul>
 
 <h2>Results:</h2>
+<h4>Baseline Model</h4>
 <img src='assets/baseline.png'>
+<h4>Fine-tuned Model</h4>
 <img src='assets/finetuned.png'>
+<h4>Fine-tuned Model in French</h4>
 <img src='assets/finetune-f.png'>
 
 <h2>Future Scope</h2>
