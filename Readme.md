@@ -34,7 +34,7 @@
     </ul>
 
 <h2>Results:</h2>
-<h4>Baseline Model</h4>
+<h4>Baseline Model (SD-XL 1.0-base Model)</h4>
 <img src='assets/baseline.png'>
 <h4>Fine-tuned Model</h4>
 <img src='assets/finetuned.png'>
