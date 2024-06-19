@@ -2,7 +2,6 @@
 <p>Incorporating text-to-image technology into the storyboard creation process offers a revolutionary approach to visual storytelling. By leveraging advanced algorithms, textual descriptions of product features and user interactions can be dynamically transformed into compelling visual representations. This fusion of language and imagery not only enhances the efficiency of storyboard creation but also enriches the communication of complex concepts and scenarios. Through the seamless integration of text-to-image capabilities, this project aims to elevate the storyboard creation process, ensuring that each frame succinctly captures the essence of the user's narrative while stimulating engagement and understanding among stakeholders and collaborators.</p>
 <h2>Problem statement</h2>
 <p>Traditional methods of creating visual storyboards for storytelling are often inefficient and time-consuming due to the manual translation of textual descriptions into visual representations. This process can lead to miscommunication and a lack of clarity, hindering engagement and understanding among stakeholders. The need for a solution that seamlessly integrates text and imagery to enhance efficiency and accuracy is evident.</p>
-
 <h2>Methodology</h2>
 <img src='assets/diagram.png'>
 
